@@ -32,7 +32,7 @@ body {
 }
 
 .cabecalho .menu li a:hover {
-  border-bottom: 2px solid #fff;
+  border-bottom: 10px solid #f16813;
 }
 
 .home {
@@ -110,6 +110,7 @@ body {
 .btn-comprar:hover {
   background-color: #fff;
   color: #000;
+  transform: scale(1.05);
 }
 
 .compre-ja .capa-do-jogo {
